@@ -8,3 +8,4 @@ https://codeforces.com/profile/Suleman_Sadat
 
 ![icon](https://github.com/user-attachments/assets/d8362429-d82d-47ec-a1ad-4f8a0d394a92)
 ![ICPC-removebg-preview](https://github.com/user-attachments/assets/c1377a70-075d-4ba9-94c1-ba5ef213361f)
+![image-removebg-preview](https://github.com/user-attachments/assets/7c693c86-dbd4-4016-9e5e-ad16986076a3)
