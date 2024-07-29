@@ -6,5 +6,5 @@ To prepare for the ICPC, I tackled a variety of Codeforces problems, honing my p
 **Me on codeforces:**
 https://codeforces.com/profile/Suleman_Sadat
 
-![ICPC-removebg-preview](https://github.com/user-attachments/assets/c1377a70-075d-4ba9-94c1-ba5ef213361f)
+![ICPC-removebg-preview (1)](https://github.com/user-attachments/assets/1d5ba9ef-505a-4254-9363-d227dfc7c524)
 ![image-removebg-preview](https://github.com/user-attachments/assets/7c693c86-dbd4-4016-9e5e-ad16986076a3)
